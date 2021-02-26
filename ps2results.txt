@@ -1,0 +1,21 @@
+CS210 ps2results.txt Yuchen Li
+
+2.1.1 Testing...
+Largest number: 100
+Smallest number: -6
+
+2.1.2 Testing...
+Largest: 99
+Smallest: -100
+
+2.2.1 Testing...
+Result: 4158.761200
+
+2.3.1 Testing...
+true
+
+2.3.2 Testing...
+false
+
+
+Process finished with exit code 0
